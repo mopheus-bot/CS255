@@ -1,5 +1,4 @@
-# CS255
-System Analysis and Design
+# System Analysis and Design
 
 
   This system was designed for DriverPass, an online learning service that helps train students
